@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+.text-glow {
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 42px #2b7cff, 0 0 82px #2b7cff,0 0 92px #2b7cff;
+	color: white;
+	font-size: 30px;
+	text-align: center;	  	
+}
+.container {
+  background-color: black;
+	height: 400px;
+	width: 400px;
+	padding: 50px;
+}
+.centerclass {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
