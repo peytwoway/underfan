@@ -19,3 +19,15 @@ body {
   margin-right: auto;
   width: 50%;
 }
+.white {
+  color: white;
+}
+/*Custom Font Defined Right here*/
+@font-face {
+    font-family: underfont;
+    src: url(underfont.ttf);
+}
+h1,h2,h3,h4,h5,p {
+  font-family: underfont;
+  color: white
+}
