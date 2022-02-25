@@ -1,3 +1,3 @@
 layout: page
 title: "Contact"
-permalink: /contact.html
+permalink: /Full-Site/contact.html
