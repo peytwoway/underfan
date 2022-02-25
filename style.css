@@ -3,6 +3,10 @@
   background-repeat: no-repeat;
   background-color: black;
 }
+.undernetbody {
+  background-color: black;
+  
+}
 .text-glow {
   text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 42px #2b7cff, 0 0 82px #2b7cff,0 0 92px #2b7cff;
 	color: white;
@@ -24,7 +28,7 @@
     font-family: underfont;
     src: url('media/underfont.ttf');
 }
-h1,h2,h3,h4,h5,p,ul,li {
+h1,h2,h3,h4,h5,p,ul,li,legend,label,table,thead,tbody,td,tr {
   font-family: underfont;
   color: white
 }
@@ -37,4 +41,19 @@ h6 {
 }
 .disclaimer {
   color: gray
+}
+.signsheet {
+  display: inline-block;
+}
+input[type=submit] {
+    border: 1px solid #38b3ff;
+    color: #fff;
+    background: #38b3ff;
+    padding: 10px 20px;
+    border-radius: 3px;
+    width: 100%;
+    font-family: underfont;
+}
+input[type=submit]:hover {
+    background: #99e6ff;
 }
