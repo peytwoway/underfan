@@ -19,7 +19,7 @@
   margin-right: auto;
   width: 50%;
 }
-.mediaadvert {
+.border {
   text-allign: center;
   border: 5px outset white;
 }
@@ -28,7 +28,7 @@
     font-family: underfont;
     src: url('media/underfont.ttf');
 }
-h1,h2,h3,h4,h5,p,ul,li,legend,label,table,thead,tbody,td,tr {
+h1,h2,h3,h4,h5,p,ul,li,legend,label,table,thead,tbody,td,tr,nav,a {
   font-family: underfont;
   color: white
 }
