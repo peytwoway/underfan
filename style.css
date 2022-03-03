@@ -39,7 +39,6 @@ h6 {
 .yellow {
   color: yellow
 }
-
 .disclaimer {
   color: gray
 }
@@ -54,6 +53,9 @@ input[type=submit] {
     border-radius: 3px;
     width: 100%;
     font-family: underfont;
+}
+.blue {
+  color: yellow
 }
 input[type=submit]:hover {
     background: #99e6ff;
