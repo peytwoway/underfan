@@ -2,6 +2,7 @@
   background-image: url('media/undertalebackground.jpg');
   background-repeat: no-repeat;
   background-color: black;
+  background-size: cover;
 }
 .undernetbody {
   background-color: black;
